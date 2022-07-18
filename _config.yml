@@ -21,6 +21,9 @@ plugins:
 version:             1.1.0
 google_analytics_id: #UA-XXXX-Y
 
+github:
+  repo: 'https://github.com/minittt777/minittt777.github.io'
+
 category_dir: category/
 tag_dir: tag/
 
